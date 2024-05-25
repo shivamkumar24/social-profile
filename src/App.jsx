@@ -113,8 +113,8 @@ const App = () => {
         <div
           style={{
             marginTop: "142px",
-            backgroundColor: "#ffffff",
-            // filter: "blur(26.399999618530273px)",
+            backgroundColor: "rgba(255,255,255,0.5)",
+            backdropFilter: "blur(2px)",
           }}
         >
           <div
